@@ -65,13 +65,12 @@ be sent over email.
 * 9/23 , Brian,
 * 9/28 , Brian, Project 4
 * 9/30 , Brian, 
-* 10/5 , Rai  , Project 4
+* 10/5 , Rai  , Project 5
 * 10/7 , Rai  ,
-* 10/12, Rai  , Project 5
+* 10/12, Rai  , Project 6
 * 10/14, Rai  ,
-* 10/19, Rai  , Project 6
+* 10/19, Rai  , Project 7
 * 10/21, Rai  ,
-* 10/26, Rai  , Project 7
 ```
 
 ## Software / websites
@@ -82,7 +81,7 @@ be sent over email.
 * [github](www.github.com)
   
 
-## Topi
+## Topics
 0. Introduction to data science for BME
     1. Git, Github
     0. Google Colab
